@@ -1,0 +1,27 @@
+[submodule "noname_v0.0"]
+	path = noname_v0.0
+	url = https://github.com/saarmae/noname_v0.0
+[submodule "JavaProjektPrykkar"]
+	path = JavaProjektPrykkar
+	url = https://github.com/kirkeN/JavaProjektPrykkar
+[submodule "i200-spring-alkokalkulaator"]
+	path = i200-spring-alkokalkulaator
+	url = https://github.com/viilveer/i200-spring-alkokalkulaator
+[submodule "eik-proj-spender"]
+	path = eik-proj-spender
+	url = https://github.com/aSkib/eik-proj-spender.git
+[submodule "numbrimang"]
+	path = numbrimang
+	url = https://github.com/triinteppo/numbrimang
+[submodule "Scrabble"]
+	path = Scrabble
+	url = https://github.com/estakaad/Scrabble
+[submodule "i200projekt"]
+	path = i200projekt
+	url = https://github.com/liina/i200projekt
+[submodule "Kooliprojekt"]
+	path = Kooliprojekt
+	url = https://github.com/Marjup/Kooliprojekt
+[submodule "TTT_srv"]
+	path = TTT_srv
+	url = https://github.com/manrico/TTT_srv
