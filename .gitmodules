@@ -25,3 +25,60 @@
 [submodule "TTT_srv"]
 	path = TTT_srv
 	url = https://github.com/manrico/TTT_srv
+[submodule "ITcollegeJavaProject"]
+	path = ITcollegeJavaProject
+	url = https://github.com/AntsPomm/ITcollegeJavaProject
+[submodule "JavaKursuseProjekt"]
+	path = JavaKursuseProjekt
+	url = https://github.com/kristisaare/JavaKursuseProjekt
+[submodule "InFLUXGraph"]
+	path = InFLUXGraph
+	url = https://github.com/akepler/InFLUXGraph
+[submodule "ennustaja"]
+	path = ennustaja
+	url = https://github.com/PriitTiganik/ennustaja/
+[submodule "LemmikuLeidja"]
+	path = LemmikuLeidja
+	url = https://github.com/markokonsa/LemmikuLeidja
+[submodule "i200-tsirkus"]
+	path = i200-tsirkus
+	url = https://github.com/PeepOks/i200-tsirkus
+[submodule "microCalJ"]
+	path = microCalJ
+	url = https://github.com/AndrusSeiman/microCalJ
+[submodule "PickMyBeer"]
+	path = PickMyBeer
+	url = https://github.com/Annely/PickMyBeer
+[submodule "kleemetsProjekt"]
+	path = kleemetsProjekt
+	url = https://github.com/kleemets/kleemetsProjekt.git
+[submodule "I200"]
+	path = I200
+	url = https://github.com/rlindstr/I200.git
+[submodule "ABC"]
+	path = ABC
+	url = https://github.com/ahelisal/ABC
+[submodule "i200Dodger"]
+	path = i200Dodger
+	url = https://github.com/rturi/i200Dodger
+[submodule "I200_FUNZ"]
+	path = I200_FUNZ
+	url = https://github.com/KaskMartin/I200_FUNZ
+[submodule "mafre"]
+	path = mafre
+	url = https://github.com/mihkelma/mafre
+[submodule "TheLearningGame"]
+	path = TheLearningGame
+	url = https://github.com/kristaryytel/TheLearningGame
+[submodule "projekt"]
+	path = projekt
+	url = https://github.com/epadjus/projekt
+[submodule "eva-esimene-projekt"]
+	path = eva-esimene-projekt
+	url = https://github.com/tereoleneva/eva-esimene-projekt.git
+[submodule "Vidor"]
+	path = Vidor
+	url = https://github.com/skelegon/Vidor.git
+[submodule "MyTrading"]
+	path = MyTrading
+	url = https://github.com/koidermaa/MyTrading
