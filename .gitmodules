@@ -1,84 +1,195 @@
 [submodule "noname_v0.0"]
-	path = noname_v0.0
+	path = saarmae
 	url = https://github.com/saarmae/noname_v0.0
 [submodule "JavaProjektPrykkar"]
-	path = JavaProjektPrykkar
+	path = kirkeN
 	url = https://github.com/kirkeN/JavaProjektPrykkar
 [submodule "i200-spring-alkokalkulaator"]
-	path = i200-spring-alkokalkulaator
+	path = viilveer
 	url = https://github.com/viilveer/i200-spring-alkokalkulaator
 [submodule "eik-proj-spender"]
-	path = eik-proj-spender
+	path = aSkib
 	url = https://github.com/aSkib/eik-proj-spender.git
 [submodule "numbrimang"]
-	path = numbrimang
+	path = triinteppo
 	url = https://github.com/triinteppo/numbrimang
 [submodule "Scrabble"]
-	path = Scrabble
+	path = estakaad
 	url = https://github.com/estakaad/Scrabble
 [submodule "i200projekt"]
-	path = i200projekt
+	path = liina
 	url = https://github.com/liina/i200projekt
 [submodule "Kooliprojekt"]
-	path = Kooliprojekt
+	path = Marjup
 	url = https://github.com/Marjup/Kooliprojekt
 [submodule "TTT_srv"]
-	path = TTT_srv
+	path = manrico
 	url = https://github.com/manrico/TTT_srv
 [submodule "ITcollegeJavaProject"]
-	path = ITcollegeJavaProject
+	path = AntsPomm
 	url = https://github.com/AntsPomm/ITcollegeJavaProject
 [submodule "JavaKursuseProjekt"]
-	path = JavaKursuseProjekt
+	path = kristisaare
 	url = https://github.com/kristisaare/JavaKursuseProjekt
 [submodule "InFLUXGraph"]
-	path = InFLUXGraph
+	path = akepler
 	url = https://github.com/akepler/InFLUXGraph
 [submodule "ennustaja"]
-	path = ennustaja
+	path = PriitTiganik
 	url = https://github.com/PriitTiganik/ennustaja/
 [submodule "LemmikuLeidja"]
-	path = LemmikuLeidja
+	path = markokonsa
 	url = https://github.com/markokonsa/LemmikuLeidja
 [submodule "i200-tsirkus"]
-	path = i200-tsirkus
+	path = PeepOks
 	url = https://github.com/PeepOks/i200-tsirkus
 [submodule "microCalJ"]
-	path = microCalJ
+	path = AndrusSeiman
 	url = https://github.com/AndrusSeiman/microCalJ
 [submodule "PickMyBeer"]
-	path = PickMyBeer
+	path = Annely
 	url = https://github.com/Annely/PickMyBeer
 [submodule "kleemetsProjekt"]
-	path = kleemetsProjekt
+	path = kleemets
 	url = https://github.com/kleemets/kleemetsProjekt.git
 [submodule "I200"]
-	path = I200
+	path = rlindstr
 	url = https://github.com/rlindstr/I200.git
 [submodule "ABC"]
-	path = ABC
+	path = ahelisal
 	url = https://github.com/ahelisal/ABC
 [submodule "i200Dodger"]
-	path = i200Dodger
+	path = rturi
 	url = https://github.com/rturi/i200Dodger
 [submodule "I200_FUNZ"]
-	path = I200_FUNZ
+	path = KaskMartin
 	url = https://github.com/KaskMartin/I200_FUNZ
 [submodule "mafre"]
-	path = mafre
+	path = mihkelma
 	url = https://github.com/mihkelma/mafre
 [submodule "TheLearningGame"]
-	path = TheLearningGame
+	path = kristaryytel
 	url = https://github.com/kristaryytel/TheLearningGame
 [submodule "projekt"]
-	path = projekt
+	path = epadjus
 	url = https://github.com/epadjus/projekt
 [submodule "eva-esimene-projekt"]
-	path = eva-esimene-projekt
+	path = tereoleneva
 	url = https://github.com/tereoleneva/eva-esimene-projekt.git
 [submodule "Vidor"]
-	path = Vidor
+	path = skelegon
 	url = https://github.com/skelegon/Vidor.git
 [submodule "MyTrading"]
-	path = MyTrading
+	path = koidermaa
 	url = https://github.com/koidermaa/MyTrading
+[submodule "saarmae"]
+	path = saarmae
+	url = https://github.com/saarmae/noname_v0.0
+[submodule "kirkeN"]
+	path = kirkeN
+	url = https://github.com/kirkeN/JavaProjektPrykkar
+[submodule "viilveer"]
+	path = viilveer
+	url = https://github.com/viilveer/i200-spring-alkokalkulaator
+[submodule "aSkib"]
+	path = aSkib
+	url = https://github.com/aSkib/eik-proj-spender.git
+[submodule "triinteppo"]
+	path = triinteppo
+	url = https://github.com/triinteppo/numbrimang
+[submodule "estakaad"]
+	path = estakaad
+	url = https://github.com/estakaad/Scrabble
+[submodule "AntsPomm"]
+	path = AntsPomm
+	url = https://github.com/AntsPomm/ITcollegeJavaProject
+[submodule "liina"]
+	path = liina
+	url = https://github.com/liina/i200projekt
+[submodule "Marjup"]
+	path = Marjup
+	url = https://github.com/Marjup/Kooliprojekt
+[submodule "manrico"]
+	path = manrico
+	url = https://github.com/manrico/TTT_srv
+[submodule "kristisaare"]
+	path = kristisaare
+	url = https://github.com/kristisaare/JavaKursuseProjekt
+[submodule "akepler"]
+	path = akepler
+	url = https://github.com/akepler/InFLUXGraph
+[submodule "PriitTiganik"]
+	path = PriitTiganik
+	url = https://github.com/PriitTiganik/ennustaja/
+[submodule "markokonsa"]
+	path = markokonsa
+	url = https://github.com/markokonsa/LemmikuLeidja
+[submodule "PeepOks"]
+	path = PeepOks
+	url = https://github.com/PeepOks/i200-tsirkus
+[submodule "AndrusSeiman"]
+	path = AndrusSeiman
+	url = https://github.com/AndrusSeiman/microCalJ
+[submodule "Annely"]
+	path = Annely
+	url = https://github.com/Annely/PickMyBeer
+[submodule "kleemets"]
+	path = kleemets
+	url = https://github.com/kleemets/kleemetsProjekt.git
+[submodule "rlindstr"]
+	path = rlindstr
+	url = https://github.com/rlindstr/I200.git
+[submodule "ahelisal"]
+	path = ahelisal
+	url = https://github.com/ahelisal/ABC
+[submodule "rturi"]
+	path = rturi
+	url = https://github.com/rturi/i200Dodger
+[submodule "KaskMartin"]
+	path = KaskMartin
+	url = https://github.com/KaskMartin/I200_FUNZ
+[submodule "mihkelma"]
+	path = mihkelma
+	url = https://github.com/mihkelma/mafre
+[submodule "kristaryytel"]
+	path = kristaryytel
+	url = https://github.com/kristaryytel/TheLearningGame
+[submodule "epadjus"]
+	path = epadjus
+	url = https://github.com/epadjus/projekt
+[submodule "tereoleneva"]
+	path = tereoleneva
+	url = https://github.com/tereoleneva/eva-esimene-projekt.git
+[submodule "skelegon"]
+	path = skelegon
+	url = https://github.com/skelegon/Vidor.git
+[submodule "koidermaa"]
+	path = koidermaa
+	url = https://github.com/koidermaa/MyTrading
+[submodule "lii5a"]
+	path = lii5a
+	url = https://github.com/lii5a/fizzbuzz
+[submodule "mailliam"]
+	path = mailliam
+	url = https://github.com/mailliam/BudgetPlanner.git
+[submodule "polika1311"]
+	path = polika1311
+	url = https://github.com/polika1311/JavaProjectPenka.git
+[submodule "ipruul"]
+	path = ipruul
+	url = https://github.com/ipruul/Projekt_Loomaaed
+[submodule "kaitsu1"]
+	path = kaitsu1
+	url = https://github.com/kaitsu1/EsimeneProjekt
+[submodule "KristiinaS"]
+	path = KristiinaS
+	url = https://github.com/KristiinaS/Project.git
+[submodule "sikumiku"]
+	path = sikumiku
+	url = https://github.com/sikumiku/ArvutusGame.git
+[submodule "airerihe"]
+	path = airerihe
+	url = https://github.com/airerihe/graafikugen.git
+[submodule "humunuk"]
+	path = humunuk
+	url = https://github.com/humunuk/Projekt
