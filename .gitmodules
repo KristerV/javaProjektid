@@ -196,3 +196,6 @@
 [submodule "jnka"]
 	path = jnka
 	url = https://github.com/jnka/AanJanika.git
+[submodule "siretsiilbaum"]
+	path = siretsiilbaum
+	url = https://github.com/siretsiilbaum/Projekt_Converter.git
