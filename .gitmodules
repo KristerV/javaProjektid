@@ -193,3 +193,6 @@
 [submodule "humunuk"]
 	path = humunuk
 	url = https://github.com/humunuk/Projekt
+[submodule "jnka"]
+	path = jnka
+	url = https://github.com/jnka/AanJanika.git
