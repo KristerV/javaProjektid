@@ -13,6 +13,7 @@ Siia kogun kõik i200 aine projektid. Loodan, et keegi privaatselt ei taha hoida
    - i200Dodger 17
    - microCalJ 21
    - TiitP
+   - kerstima
 - 2 punkti neile, kes on saanud oma projekti registreeritud 28.10: [projektid](https://github.com/KristerV/javaProjektid/commit/93279f806b2b143dafbe0252b2f8f5fb9c6420b3)
 - tublid vastajad klassis
   - marju pütsepp 5 punkti
