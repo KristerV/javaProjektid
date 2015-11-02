@@ -199,3 +199,6 @@
 [submodule "siretsiilbaum"]
 	path = siretsiilbaum
 	url = https://github.com/siretsiilbaum/Projekt_Converter.git
+[submodule "TiitP"]
+	path = TiitP
+	url = https://github.com/TiitP/i200_JavaProject.git
