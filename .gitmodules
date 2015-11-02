@@ -118,3 +118,18 @@
 [submodule "TiitP"]
 	path = TiitP
 	url = https://github.com/TiitP/i200_JavaProject.git
+[submodule "agrigorj"]
+	path = agrigorj
+	url = https://github.com/agrigorj/first-steps
+[submodule "hareintam"]
+	path = hareintam
+	url = https://github.com/hareintam/Projekt.git
+[submodule "Andokiidron"]
+	path = Andokiidron
+	url = https://github.com/Andokiidron/todotasks.git
+[submodule "toelt"]
+	path = toelt
+	url = https://github.com/toelt/Address_book
+[submodule "kerstima"]
+	path = kerstima
+	url = https://github.com/kerstima/projekt-kerstima
