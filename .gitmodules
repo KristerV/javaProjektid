@@ -133,3 +133,9 @@
 [submodule "kerstima"]
 	path = kerstima
 	url = https://github.com/kerstima/projekt-kerstima
+[submodule "ltaimre"]
+	path = ltaimre
+	url = https://github.com/ltaimre/Peenar
+[submodule "andreskostiv"]
+	path = andreskostiv
+	url = git@github.com:andreskostiv/shuffleMyWeb.git
