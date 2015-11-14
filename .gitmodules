@@ -139,3 +139,6 @@
 [submodule "andreskostiv"]
 	path = andreskostiv
 	url = git@github.com:andreskostiv/shuffleMyWeb.git
+[submodule "lecktor"]
+	path = lecktor
+	url = https://github.com/lecktor/stl2gcode
