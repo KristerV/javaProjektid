@@ -142,3 +142,6 @@
 [submodule "lecktor"]
 	path = lecktor
 	url = https://github.com/lecktor/stl2gcode
+[submodule "EvelinJ"]
+	path = EvelinJ
+	url = https://github.com/EvelinJ/memoryGame
