@@ -88,9 +88,6 @@
 [submodule "mailliam"]
 	path = mailliam
 	url = https://github.com/mailliam/BudgetPlanner.git
-[submodule "polika1311"]
-	path = polika1311
-	url = https://github.com/polika1311/JavaProjectPenka.git
 [submodule "ipruul"]
 	path = ipruul
 	url = https://github.com/ipruul/Projekt_Loomaaed
