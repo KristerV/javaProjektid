@@ -142,3 +142,6 @@
 [submodule "EvelinJ"]
 	path = EvelinJ
 	url = https://github.com/EvelinJ/memoryGame
+[submodule "MaksimC"]
+	path = MaksimC
+	url = https://github.com/MaksimC/javaProject.git
