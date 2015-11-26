@@ -151,3 +151,9 @@
 [submodule "MarvenA"]
 	path = MarvenA
 	url = https://github.com/MarvenA/i200_java
+[submodule "PeeterP"]
+	path = PeeterP
+	url = https://github.com/PeeterP/BiG
+[submodule "whiisu"]
+	path = whiisu
+	url = https://github.com/whiisu/ShuffleMyWeb
