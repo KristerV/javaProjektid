@@ -157,3 +157,6 @@
 [submodule "whiisu"]
 	path = whiisu
 	url = https://github.com/whiisu/ShuffleMyWeb
+[submodule "Mroosi"]
+	path = Mroosi
+	url = https://github.com/Mroosi/Mroosi.git
