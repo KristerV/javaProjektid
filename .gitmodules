@@ -160,3 +160,6 @@
 [submodule "Mroosi"]
 	path = Mroosi
 	url = https://github.com/Mroosi/Mroosi.git
+[submodule "jaagerm"]
+	path = jaagerm
+	url = https://github.com/jaagerm/ProjectHelper
