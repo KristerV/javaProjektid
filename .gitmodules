@@ -163,3 +163,9 @@
 [submodule "jaagerm"]
 	path = jaagerm
 	url = https://github.com/jaagerm/ProjectHelper
+[submodule "niinavo"]
+	path = niinavo
+	url = https://github.com/niinavo/ITcollegeJavaProject.git
+[submodule "jurgenlatte"]
+	path = jurgenlatte
+	url = git@github.com:jurgenlatte/aratuskell.git
