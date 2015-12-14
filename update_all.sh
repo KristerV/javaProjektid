@@ -1,6 +1,6 @@
 #!/bin/sh
 
-set -e
+# set -e # exit immediately if a command fails
 
 # Init repos that are in .gitmodules but not cloned yet
 echo ""
