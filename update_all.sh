@@ -24,3 +24,9 @@ git submodule foreach git pull origin master
 echo ""
 echo "----------------------- checkout master ---------------------------"
 git submodule foreach git checkout master
+
+echo ""
+echo "----------------------- commit changes ---------------------------"
+git add --all
+git commit -m "update repos"
+git push
