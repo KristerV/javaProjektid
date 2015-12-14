@@ -49,9 +49,6 @@
 [submodule "Annely"]
 	path = Annely
 	url = https://github.com/Annely/PickMyBeer
-[submodule "kleemets"]
-	path = kleemets
-	url = https://github.com/kleemets/kleemetsProjekt.git
 [submodule "rlindstr"]
 	path = rlindstr
 	url = https://github.com/rlindstr/I200.git
