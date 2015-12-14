@@ -166,3 +166,6 @@
 [submodule "jurgenlatte"]
 	path = jurgenlatte
 	url = git@github.com:jurgenlatte/aratuskell.git
+[submodule "kleemets"]
+	path = kleemets
+	url = https://github.com/kleemets/kleemetsProjektVol2.git
