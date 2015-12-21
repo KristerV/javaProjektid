@@ -169,3 +169,6 @@
 [submodule "kleemets"]
 	path = kleemets
 	url = https://github.com/kleemets/kleemetsProjektVol2.git
+[submodule "Subucula"]
+	path = Subucula
+	url = https://github.com/Subucula/Ticket.git
