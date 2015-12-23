@@ -172,3 +172,6 @@
 [submodule "Subucula"]
 	path = Subucula
 	url = https://github.com/Subucula/Ticket.git
+[submodule "tyomhd"]
+	path = tyomhd
+	url = https://github.com/tyomhd/i200-FoodCalculator.git
