@@ -175,3 +175,18 @@
 [submodule "tyomhd"]
 	path = tyomhd
 	url = https://github.com/tyomhd/i200-FoodCalculator.git
+[submodule "LMaria"]
+	path = LMaria
+	url = https://github.com/LMaria/EarTrainer
+[submodule "kiilopapa"]
+	path = kiilopapa
+	url = https://github.com/kiilopapa/Projekt
+[submodule "KairiKK"]
+	path = KairiKK
+	url = https://github.com/KairiKK/KursuseProjekt
+[submodule "Maarija13"]
+	path = Maarija13
+	url = https://github.com/Maarija13/ProjectToDo
+[submodule "hkosta"]
+	path = hkosta
+	url = https://github.com/hkosta/I200-projekt.git
