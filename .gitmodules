@@ -190,3 +190,6 @@
 [submodule "hkosta"]
 	path = hkosta
 	url = https://github.com/hkosta/I200-projekt.git
+[submodule "ITCNamba57"]
+	path = ITCNamba57
+	url = https://github.com/ITCNamba57/Java_Project.git
