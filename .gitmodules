@@ -196,3 +196,6 @@
 [submodule "relken"]
 	path = relken
 	url = https://github.com/relken/LennukiMang
+[submodule "LiinaH"]
+	path = LiinaH
+	url = https://github.com/LiinaH/javaProjekt
