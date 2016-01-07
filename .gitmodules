@@ -193,3 +193,6 @@
 [submodule "ITCNamba57"]
 	path = ITCNamba57
 	url = https://github.com/ITCNamba57/Java_Project.git
+[submodule "relken"]
+	path = relken
+	url = https://github.com/relken/LennukiMang
