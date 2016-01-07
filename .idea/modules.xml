@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Andokiidron/Andokiidron.iml" filepath="$PROJECT_DIR$/Andokiidron/Andokiidron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndrusSeiman/AndrusSeiman.iml" filepath="$PROJECT_DIR$/AndrusSeiman/AndrusSeiman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Annely/Annely.iml" filepath="$PROJECT_DIR$/Annely/Annely.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hareintam/BikeQuiz/BikeQuiz.iml" filepath="$PROJECT_DIR$/hareintam/BikeQuiz/BikeQuiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvelinJ/EvelinJ.iml" filepath="$PROJECT_DIR$/EvelinJ/EvelinJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rlindstr/I200java/I200java.iml" filepath="$PROJECT_DIR$/rlindstr/I200java/I200java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KairiKK/KairiKK.iml" filepath="$PROJECT_DIR$/KairiKK/KairiKK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KaskMartin/KaskMartin.iml" filepath="$PROJECT_DIR$/KaskMartin/KaskMartin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KristiinaS/KristiinaS.iml" filepath="$PROJECT_DIR$/KristiinaS/KristiinaS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LMaria/LMaria.iml" filepath="$PROJECT_DIR$/LMaria/LMaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maarija13/Maarija13.iml" filepath="$PROJECT_DIR$/Maarija13/Maarija13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MarvenA/MarvenA.iml" filepath="$PROJECT_DIR$/MarvenA/MarvenA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jnka/MemoryGame/MemoryGame.iml" filepath="$PROJECT_DIR$/jnka/MemoryGame/MemoryGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PeepOks/PeepOks.iml" filepath="$PROJECT_DIR$/PeepOks/PeepOks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PeeterP/PeeterP.iml" filepath="$PROJECT_DIR$/PeeterP/PeeterP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PriitTiganik/PriitTiganik.iml" filepath="$PROJECT_DIR$/PriitTiganik/PriitTiganik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ipruul/Projekt_Loomaaed_01/Projekt_Loomaaed_01.iml" filepath="$PROJECT_DIR$/ipruul/Projekt_Loomaaed_01/Projekt_Loomaaed_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Marjup/Raamatupidamine/Raamatupidamine.iml" filepath="$PROJECT_DIR$/Marjup/Raamatupidamine/Raamatupidamine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TiitP/TiitP.iml" filepath="$PROJECT_DIR$/TiitP/TiitP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agrigorj/agrigorj.iml" filepath="$PROJECT_DIR$/agrigorj/agrigorj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/airerihe/airerihe.iml" filepath="$PROJECT_DIR$/airerihe/airerihe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akepler/akepler.iml" filepath="$PROJECT_DIR$/akepler/akepler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/markokonsa/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/markokonsa/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estakaad/estakaad.iml" filepath="$PROJECT_DIR$/estakaad/estakaad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hkosta/hkosta.iml" filepath="$PROJECT_DIR$/hkosta/hkosta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/humunuk/humunuk.iml" filepath="$PROJECT_DIR$/humunuk/humunuk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jaagerm/jaagerm.iml" filepath="$PROJECT_DIR$/jaagerm/jaagerm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProjektid.iml" filepath="$PROJECT_DIR$/javaProjektid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jurgenlatte/jurgenlatte.iml" filepath="$PROJECT_DIR$/jurgenlatte/jurgenlatte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaitsu1/kaitsu1.iml" filepath="$PROJECT_DIR$/kaitsu1/kaitsu1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerstima/kerstima.iml" filepath="$PROJECT_DIR$/kerstima/kerstima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kiilopapa/kiilopapa.iml" filepath="$PROJECT_DIR$/kiilopapa/kiilopapa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kirkeN/kirkeN.iml" filepath="$PROJECT_DIR$/kirkeN/kirkeN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kleemets/kleemets.iml" filepath="$PROJECT_DIR$/kleemets/kleemets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/koidermaa/koidermaa.iml" filepath="$PROJECT_DIR$/koidermaa/koidermaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kristaryytel/kristaryytel.iml" filepath="$PROJECT_DIR$/kristaryytel/kristaryytel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kristisaare/kristisaare.iml" filepath="$PROJECT_DIR$/kristisaare/kristisaare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecktor/lecktor.iml" filepath="$PROJECT_DIR$/lecktor/lecktor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liina/liina.iml" filepath="$PROJECT_DIR$/liina/liina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ltaimre/ltaimre.iml" filepath="$PROJECT_DIR$/ltaimre/ltaimre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mailliam/mailliam.iml" filepath="$PROJECT_DIR$/mailliam/mailliam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manrico/Message/src/main/main.iml" filepath="$PROJECT_DIR$/manrico/Message/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manrico/Client/src/main/main1.iml" filepath="$PROJECT_DIR$/manrico/Client/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skelegon/src/main/main2.iml" filepath="$PROJECT_DIR$/skelegon/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manrico/Server/src/main/main3.iml" filepath="$PROJECT_DIR$/manrico/Server/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/markokonsa/app/src/main/main4.iml" filepath="$PROJECT_DIR$/markokonsa/app/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viilveer/src/main/main5.iml" filepath="$PROJECT_DIR$/viilveer/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mihkelma/mihkelma.iml" filepath="$PROJECT_DIR$/mihkelma/mihkelma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/niinavo/niinavo.iml" filepath="$PROJECT_DIR$/niinavo/niinavo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/relken/relken.iml" filepath="$PROJECT_DIR$/relken/relken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rturi/rturi.iml" filepath="$PROJECT_DIR$/rturi/rturi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saarmae/saarmae.iml" filepath="$PROJECT_DIR$/saarmae/saarmae.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sikumiku/sikumiku.iml" filepath="$PROJECT_DIR$/sikumiku/sikumiku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mroosi/tolk/tolk.iml" filepath="$PROJECT_DIR$/Mroosi/tolk/tolk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tyomhd/tyomhd.iml" filepath="$PROJECT_DIR$/tyomhd/tyomhd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whiisu/whiisu.iml" filepath="$PROJECT_DIR$/whiisu/whiisu.iml" />
+    </modules>
+  </component>
+</project>

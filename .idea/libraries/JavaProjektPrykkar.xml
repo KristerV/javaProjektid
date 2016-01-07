@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JavaProjektPrykkar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/kirkeN/out/production/JavaProjektPrykkar/GMapsFX.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kirkeN/out/production/JavaProjektPrykkar/sqlite-jdbc-3.8.11.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

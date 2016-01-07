@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="HinnaKalkulatsioon">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/kleemets/src/HinnaKalkulatsioon/gson-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kleemets/src/HinnaKalkulatsioon/sqlite-jdbc-3.8.11.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

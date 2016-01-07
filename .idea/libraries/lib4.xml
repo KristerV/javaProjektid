@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rlindstr/I200java/out/production/I200/lib/opencsv-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rlindstr/I200java/out/production/I200/lib/sqlite-jdbc-3.8.11.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

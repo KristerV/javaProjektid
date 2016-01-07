@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sqlite-jdbc-3.8.11.25">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Marjup/out/production/Raamatupidamine/sqlite-jdbc-3.8.11.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sqlite-jdbc-3.8.11.210">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rturi/src/i200Dodger/lib/sqlite-jdbc-3.8.11.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
