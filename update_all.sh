@@ -4,6 +4,11 @@
 
 # Init repos that are in .gitmodules but not cloned yet
 echo ""
+echo "----------------------- init - update ---------------------------"
+git submodule init
+git submodule update
+
+echo ""
 echo "----------------------- reinit nonexisting ---------------------------"
 git config -f .gitmodules --get-regexp '^submodule\..*\.path$' |
     while read path_key path
