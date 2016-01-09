@@ -1,0 +1,12 @@
+.label {
+    -fx-font-style: normal;
+    -fx-font-size: 130%;
+    -fx-font-weight: normal;
+}
+.button {
+    -fx-font-size: 130%;
+    -fx-font-weight: normal;
+}
+.text-field {
+    -fx-font-weight: bold;
+}
