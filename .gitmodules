@@ -132,7 +132,7 @@
 	url = https://github.com/ltaimre/Peenar
 [submodule "andreskostiv"]
 	path = andreskostiv
-	url = git@github.com:andreskostiv/shuffleMyWeb.git
+	url = https://github.com/andreskostiv/shuffleMyWeb.git
 [submodule "lecktor"]
 	path = lecktor
 	url = https://github.com/lecktor/stl2gcode
@@ -165,7 +165,7 @@
 	url = https://github.com/niinavo/ITcollegeJavaProject.git
 [submodule "jurgenlatte"]
 	path = jurgenlatte
-	url = git@github.com:jurgenlatte/aratuskell.git
+	url = https://github.com/jurgenlatte/aratuskell.git
 [submodule "kleemets"]
 	path = kleemets
 	url = https://github.com/kleemets/kleemetsProjektVol2.git
