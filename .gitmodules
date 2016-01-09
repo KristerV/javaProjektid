@@ -202,3 +202,6 @@
 [submodule "3attery"]
 	path = 3attery
 	url = https://github.com/3attery/Project
+[submodule "RedFox20"]
+	path = RedFox20
+	url = https://github.com/RedFox20/javaThreadRaceCondition
