@@ -27,6 +27,6 @@ git submodule foreach git checkout master
 
 echo ""
 echo "----------------------- commit changes ---------------------------"
-git add --all
-git commit -m "update repos"
-git push
+# git add --all
+# git commit -m "update repos"
+# git push
